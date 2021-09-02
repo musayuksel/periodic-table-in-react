@@ -1,0 +1,8 @@
+.table-legend {
+    border: 1px solid blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(5, 1fr);
+    grid-column: 3 / 13;
+    grid-row: 2 / 5;
+}

@@ -1,0 +1,12 @@
+.element-tile {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.5fr 1.5fr;
+    place-items: center;
+    color: #fff;
+    font-size: 0.5rem;
+}
+
+element-tile p {
+    padding: 0;
+}
